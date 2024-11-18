@@ -1,5 +1,5 @@
 export {removemovies} from "../reducers/MovieSlice"
-import axios from "../../utils/Axios";
+import axios from "../utils/axios";
 import { loadmovie} from '../reducers/MovieSlice';
 
 
